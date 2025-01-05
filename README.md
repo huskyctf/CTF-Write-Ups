@@ -36,7 +36,7 @@ Relative links adapt to the current file location within the repository, for exa
 ```
 # PlatformName | ChallengeName
 
-**Disclaimer:** The tools and techniques demonstrated in this challenge are for educational purposes only. They should never be performed on any system without the explicit written consent of the owner. The vulnerable software shown may not represent the latest version available and may have been intentionally altered to be vulnerable. The steps described may not be safe to run, and users proceed at their own risk.
+**Disclaimer:** The tools and techniques demonstrated are for educational purposes only. Never test any system without explicit written consent of the owner.
 
 # Reconnaissance
 
